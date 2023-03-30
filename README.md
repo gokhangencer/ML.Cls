@@ -1,0 +1,7 @@
+DecisionTreeClassifier
+KNeighborsClassifier
+LogisticRegression
+RandomForestClassifier
+SGDRegressor
+
+SVM - hand gesture
